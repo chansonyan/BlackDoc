@@ -199,7 +199,7 @@ tbody tr:nth-child(odd) th {
 /* About section */
 .sidebar-about h1 {
   color: #caad00;
-  margin-top: 0;
+  margin-top: 0.4rem;
   font-family: 'Noto Serif', serif;
   font-size: 2.25rem;
 
@@ -407,3 +407,23 @@ a.sidebar-nav-item:focus {
   background:#7d7d7d;
 }
 
+
+
+/* Modified by Cyan */
+/* Tags Color */
+.tag-name {
+  display: block;
+  margin-top: 1rem;
+  margin-bottom: 0.0rem;
+  color: #caad00;  
+}
+
+.tag-cloud {
+  color: #caad00; 
+}
+
+.listing-item {
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-size: 1.0rem;
+
+}
