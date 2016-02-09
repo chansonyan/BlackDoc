@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Actors versus pawns
-categories: 【 Learning C++ by Creating Games with UE4 】
+categories: Learning_C++_by_Creating_Games_with_UE4
 tags: Unreal_Engine
 ---
 
