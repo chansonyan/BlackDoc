@@ -10,3 +10,11 @@ tags: C++
 Links：    
 [规则例子说明](http://blog.csdn.net/hevc_cjl/article/details/12359627)     
 [内存对齐作用](http://my.oschina.net/simplefocus/blog/214509)    
+
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
