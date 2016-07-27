@@ -41,6 +41,7 @@ There are three major phases when using the SDK: **setup, the game loop, and shu
 # Example Code Snippet
 ---
 The following code **initializes LibOVR** and requests information about the available HMD.
+
 ```C
 // Include the OculusVR SDK
 	#include <OVR_CAPI.h>
@@ -66,6 +67,7 @@ The following code **initializes LibOVR** and requests information about the ava
 	   ovr_Shutdown();
 	}
 ```
+
 As you can see, **ovr_Initialize is called before any other API functions** and **ovr_Shutdown is called to shut down the library before you exit the program.** In between these function calls, you are free to create HMD objects, access tracking state, and perform application rendering.
 
 In this example,** ovr_Create(&session &luid) creates the HMD**. Use the LUID returned by ovr_Create() to select the IDXGIAdapter on which your ID3D11Device or ID3D12Device is created. Finally, ovr_Destroy must be called to clear the HMD before shutting down the library.
