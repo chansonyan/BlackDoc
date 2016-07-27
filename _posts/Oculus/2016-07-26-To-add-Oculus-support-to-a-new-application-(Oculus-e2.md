@@ -42,6 +42,8 @@ There are three major phases when using the SDK: **setup, the game loop, and shu
 ---
 The following code **initializes LibOVR** and requests information about the available HMD.
 
+---
+
 ```C
 // Include the OculusVR SDK
 	#include <OVR_CAPI.h>
