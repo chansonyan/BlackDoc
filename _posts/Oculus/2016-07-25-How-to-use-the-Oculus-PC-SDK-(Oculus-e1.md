@@ -5,8 +5,6 @@ categories: Learning_Oculus_PC_SDK
 tags: Oculus_PC_SDK
 ---
 
-# How to use the Oculus PC SDK (Oculus-e1
-
 
 -------------------
 **Covers the following topics:**

@@ -5,7 +5,6 @@ categories: Learning_Oculus_PC_SDK
 tags: Oculus_PC_SDK
 ---
 
-# To add Oculus support to a new application (Oculus-e2
 
 
 -------------------
