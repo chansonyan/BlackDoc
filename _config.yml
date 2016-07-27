@@ -1,28 +1,27 @@
 # Dependencies
 markdown:         redcarpet
 highlighter:      pygments
+gems:             [jekyll-paginate, jekyll-gist]
 
 # Permalinks
 permalink:        pretty
-#relative_permalinks: true
+# relative_permalinks: true
 
 # Setup
 title:            BlackDoc
-tagline:          BlackDoc
-description:      "Documents here are gathered by a newbie hacker"
+tagline:          Black Theme for Jekyll
+description:      "A two-column black theme with a scrolling sidebar. Ideal for sites requiring a master-detail layout, e.g. documentation, cheatsheets, lyrics, notes..."
 url:              https://github.com/karloespiritu/blackdoc
 baseurl:          /
 
 author:
-  name:           'Chansonyan'
+  name:           'Karlo Espiritu'
   url:            https://twitter.com/karloespiritu
 
-paginate:         35
-
-gems: [jekyll-paginate]
+paginate:         5
 
 # Custom vars
-version:          1.1.0
+version:          1.0.0
 
 github:
-  repo:           https://github.com/chansonyan/BlackDoc
+  repo:           https://github.com/karloespiritu/blackdoc
