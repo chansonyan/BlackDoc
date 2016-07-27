@@ -78,6 +78,8 @@ In this example,** ovr_Create(&session &luid) creates the HMD**. Use the LUID re
 
 The description of an **HMD (ovrHmdDesc) handle** can be retrieved by calling ovr_GetHmdDesc(session). The following table describes the fields:
 
+---
+
 | Field | Type | Description |
 |:--------|:--------|:--------|
 |  Type	|  ovrHmdType	|  Type of the HMD, such as ovr_DK2 or ovr_DK2 .
@@ -96,4 +98,7 @@ The description of an **HMD (ovrHmdDesc) handle** can be retrieved by calling ov
 |  MaxEyeFov	|  ovrFovPort[]	|  Maximum optical field of view that can be practically rendered for each eye.
 |  Resolution	|  ovrSizei	|  Resolution of the full HMD screen (both eyes) in pixels.
 |  DisplayRefreshRate	|  float	|  Nominal refresh rate of the HMD in cycles per second at the time of HMD creation.
+
+---
+
 
