@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Post Examples
+title: Theme Styles
 ---
 
 ## Full Style Test
@@ -38,13 +38,12 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 ![Test Image](https://unsplash.imgix.net/photo-1429371527702-1bfdc0eeea7d)
 
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-![Test Image2](https://github.com/chansonyan/chansonyan.github.io/blob/master/public/images/20160322/0001)
 
 ### Small Image
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.
 
-![Small Test Image](https://distilleryimage8-a.akamaihd.net/2fbc48f2da2911e29e7122000aaa0fd8_7.jpg)
+![Small Test Image](https://instagram.fmnl2-1.fna.fbcdn.net/t51.2885-15/s640x640/sh0.08/e35/13437309_1167174123346027_1743223026_n.jpg)
 
 Labore et dolore.
 
